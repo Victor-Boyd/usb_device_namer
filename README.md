@@ -39,7 +39,7 @@ If you don’t know the device path just by looking at this, try unplugging the 
 Once you have pinpointed the device path, you can run the program:
 
 ```
-sudo ./usb_device_namer path=<whatever_your_path_was> name=<new_much_better_name>
+sudo ./usb_device_namer.sh path=<whatever_your_path_was> name=<new_much_better_name>
 ```
 
 ### Expected Output
